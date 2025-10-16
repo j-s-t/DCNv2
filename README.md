@@ -15,7 +15,7 @@ $ python3 setup.py build develop
 ```
 
 ## Updates
-
+- **2025-10-15**: PyTorch 2.8.0+cu129 support added.
 - **2021.03.24**: It was confirmed PyTorch 1.8 is OK with master branch, feel free to use it.
 - **2021.02.18**: Happy new year! PyTorch 1.7 finally supported on master branch! **for lower version theoretically also works, if not, pls fire an issue to me!**.
 - **2020.09.23**: Now master branch works for pytorch 1.6 by default, for older version you gonna need separated one.
